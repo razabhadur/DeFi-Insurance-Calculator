@@ -91,6 +91,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 - GitHub: https://github.com/razabhadur
-- LinkedIn: https://www.linkedin.com/in/razabhadur
+- LinkedIn: https://www.linkedin.com/in/raza-bhadur-b67248201/
 
 Feel free to reach out for any queries or suggestions!
